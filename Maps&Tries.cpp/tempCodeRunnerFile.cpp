@@ -1,0 +1,1 @@
+ // cout<<"inserting :"<<word<<endl;
